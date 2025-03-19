@@ -1,0 +1,59 @@
+{
+  "entries": [
+    {
+      "id": "42b1373a-714b-4c31-9466-72d9d1cb5727",
+      "next": "17683a1e-8e4b-4b3e-8584-c3f5e1078d40",
+      "type": "message",
+      "content": "Hello",
+      "sender": "contact"
+    },
+    {
+      "id": "17683a1e-8e4b-4b3e-8584-c3f5e1078d40",
+      "type": "options",
+      "options": [
+        "0445a5e4-d407-4d51-8408-a95297c55f73",
+        "014e50d5-faf3-4a5a-ac9d-6a342d5c175a",
+        "327e3bee-ca2f-4077-84d1-c82c9cc6c63e"
+      ]
+    },
+    {
+      "id": "0445a5e4-d407-4d51-8408-a95297c55f73",
+      "next": "e4aab6f1-51c9-4c55-a011-8fdc5d335639",
+      "type": "message",
+      "content": "Hello there!",
+      "sender": "me"
+    },
+    {
+      "id": "014e50d5-faf3-4a5a-ac9d-6a342d5c175a",
+      "next": "05144dde-1a85-4a18-9771-b1cb2e60bb26",
+      "type": "message",
+      "content": "mmmm... Who are you?",
+      "sender": "me"
+    },
+    {
+      "id": "327e3bee-ca2f-4077-84d1-c82c9cc6c63e",
+      "next": "b8523eaf-dc1b-4cc4-ae3f-3f3dc69e0ae3",
+      "type": "message",
+      "content": "Hey!",
+      "sender": "me"
+    },
+    {
+      "id": "e4aab6f1-51c9-4c55-a011-8fdc5d335639",
+      "type": "message",
+      "content": "General Kenobi! :P",
+      "sender": "contact"
+    },
+    {
+      "id": "05144dde-1a85-4a18-9771-b1cb2e60bb26",
+      "type": "message",
+      "content": "Wouldn't you like to know weather boy?",
+      "sender": "contact"
+    },
+    {
+      "id": "b8523eaf-dc1b-4cc4-ae3f-3f3dc69e0ae3",
+      "type": "message",
+      "content": "How are you doing?",
+      "sender": "contact"
+    }
+  ]
+}
