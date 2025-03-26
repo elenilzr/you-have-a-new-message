@@ -36,9 +36,5 @@
   flex: 1;
   box-sizing: border-box;
   overflow-y: auto;
-
-  .trigger-warning {
-    color: rgb(184, 29, 29);
-  }
 }
 </style>
