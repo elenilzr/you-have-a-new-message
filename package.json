@@ -5,11 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "vue-tsc -b && vite build",
+    "build": "vue-tsc -b && vite build && cpy ./CNAME docs/",
     "preview": "vite preview"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
+    "cpy-cli": "^5.0.0",
     "floating-vue": "^5.2.2",
     "oh-vue-icons": "^1.0.0-rc3",
     "vite-plugin-singlefile": "^2.2.0",
