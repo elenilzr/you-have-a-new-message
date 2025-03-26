@@ -4,20 +4,25 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "vue-tsc -b && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
+    "floating-vue": "^5.2.2",
     "oh-vue-icons": "^1.0.0-rc3",
     "vite-plugin-singlefile": "^2.2.0",
     "vue": "^3.5.13",
+    "vue-dragscroll": "^4.0.6",
     "xml-js": "^1.6.11"
   },
   "devDependencies": {
+    "@antfu/eslint-config": "^4.11.0",
     "@types/node": "^22.13.10",
     "@vitejs/plugin-vue": "^5.2.1",
     "@vue/tsconfig": "^0.7.0",
+    "eslint": "^9.23.0",
     "sass-embedded": "^1.85.1",
     "typescript": "~5.7.2",
     "vite": "^6.2.0",

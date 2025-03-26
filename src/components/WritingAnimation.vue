@@ -1,13 +1,13 @@
 <script setup lang="ts">
-setTimeout(() => {
-}, 0)
+  setTimeout(() => {
+  }, 0)
 </script>
 
 <template>
   <div class="writing-animation">
-    <span></span>
-    <span></span>
-    <span></span>
+    <span />
+    <span />
+    <span />
   </div>
 </template>
 

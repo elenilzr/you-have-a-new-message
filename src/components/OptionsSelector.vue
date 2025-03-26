@@ -1,26 +1,55 @@
 <script setup lang="ts">
-import type { TChatMessage } from '../types';
+  import { ref, nextTick } from 'vue';
+  import type { TOption, TOptionType } from '../types'
+  import Button from './Button.vue';
 
-defineProps<{ messages: TChatMessage[] }>()
-const emit = defineEmits<{ (event: 'selected', optionId: string): void }>()
-let isOptionSelected = false
+  defineProps<{ messages: TOption[] }>()
+  const emit = defineEmits<{
+    selected: [optionId: string]
+    continue: []
+  }>()
 
-function selectOption(optionId: string) {
-  if (isOptionSelected) {
-    return
+  const isOptionSelected = ref(false)
+
+  async function selectOption(optionType: 'continue'): Promise<void>
+  async function selectOption(optionType: 'message', optionId: string): Promise<void>
+  async function selectOption(optionType: TOptionType, optionId?: string): Promise<void> {
+    if (isOptionSelected.value) {
+      return
+    }
+
+    isOptionSelected.value = true
+    await nextTick()
+
+    switch (optionType) {
+      case 'message': {
+        emit('selected', optionId!)
+        break
+      }
+      case 'continue': {
+        emit('continue')
+        break
+      }
+    }
   }
-
-  isOptionSelected = true
-  emit('selected', optionId)
-}
-
 </script>
 
 <template>
   <div class="options-selector">
-    <div v-for="message of messages" :key="message.id" class="option" @click="() => selectOption(message.id)">
-      {{ message.content }}
-    </div>
+    <template v-for="message of messages">
+      <Button
+        v-if="message.optionType === 'message'"
+        :key="message.id"
+        :color="!isOptionSelected ? 'primary' : 'disabled'"
+        @click="() => selectOption(message.optionType, message.id)"
+      >{{ message.content }}</Button>
+      <Button
+        v-if="message.optionType === 'continue'"
+        :key="message.optionType"
+        :color="!isOptionSelected ? 'primary' : 'disabled'"
+        @click="() => selectOption(message.optionType)"
+      >Continue</Button>
+    </template>
   </div>
 </template>
 
@@ -33,15 +62,23 @@ function selectOption(optionId: string) {
   padding: 1rem;
 
   .option {
+    --option-color: rgb(78, 78, 212);
+    --option-color-hover: rgb(59, 59, 197);
     padding: 1rem;
-    background-color: rgb(78, 78, 212);
+    background-color: var(--option-color);
     color: white;
     border-radius: 32px;
     transition: 0.4s all;
     font-weight: 600;
+    filter: saturate(1);
+
+    &.selected {
+      --option-color: rgb(155, 155, 155);
+      --option-color-hover: rgb(155, 155, 155);
+    }
 
     &:hover {
-      background-color: rgb(59, 59, 197);
+      background-color: var(--option-color-hover);
     }
   }
 }

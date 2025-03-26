@@ -19,3 +19,12 @@ body, #app {
   justify-content: center;
   align-items: center;
 }
+
+.v-popper--theme-tooltip .v-popper__inner {
+  max-width: 300px;
+  background-color: #9f1c1c;
+}
+
+.v-popper--theme-tooltip .v-popper__arrow-outer {
+  border-color: #9f1c1c;
+}

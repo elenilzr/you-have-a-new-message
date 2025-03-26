@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Page-1" id="YXTwGlhHIlI_jxa94E2A">
-    <mxGraphModel dx="889" dy="4028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="4038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
         <mxCell id="mSgWRxFFJvAT-vQkN9YG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-1" target="mSgWRxFFJvAT-vQkN9YG-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mSgWRxFFJvAT-vQkN9YG-1" value="hi!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,var(--ge-dark-color, #121212));" parent="1" vertex="1">
+        <mxCell id="mSgWRxFFJvAT-vQkN9YG-1" value="Hi!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,var(--ge-dark-color, #121212));" parent="1" vertex="1">
           <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mSgWRxFFJvAT-vQkN9YG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-2" target="mSgWRxFFJvAT-vQkN9YG-7" edge="1">
@@ -32,7 +32,10 @@
         <mxCell id="mSgWRxFFJvAT-vQkN9YG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-7" target="mSgWRxFFJvAT-vQkN9YG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mSgWRxFFJvAT-vQkN9YG-7" value="I saw your profile. It seems like you like Taylor Swift. I really like them and trying to make more friends" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-7" target="TEYbBwRaqVCDsUpSIHvk-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSgWRxFFJvAT-vQkN9YG-7" value="I saw your profile and it seems like you like Gwenda Tracey. I really like them and trying to make more friends" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="425" y="295" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mSgWRxFFJvAT-vQkN9YG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-12" target="mSgWRxFFJvAT-vQkN9YG-17" edge="1">
@@ -44,16 +47,22 @@
         <mxCell id="mSgWRxFFJvAT-vQkN9YG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-13" target="mSgWRxFFJvAT-vQkN9YG-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mSgWRxFFJvAT-vQkN9YG-13" value="oh that&#39;s awesome! I love Taylor Swift" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="mSgWRxFFJvAT-vQkN9YG-13" value="oh that&#39;s awesome! I love Gwenda Tracey" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="630" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mSgWRxFFJvAT-vQkN9YG-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-16" target="mSgWRxFFJvAT-vQkN9YG-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mSgWRxFFJvAT-vQkN9YG-16" value="you have good taste. She&#39;s great" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-16" target="TEYbBwRaqVCDsUpSIHvk-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mSgWRxFFJvAT-vQkN9YG-16" value="You have good taste. She&#39;s great" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="820" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mSgWRxFFJvAT-vQkN9YG-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-17" target="mSgWRxFFJvAT-vQkN9YG-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-17" target="TEYbBwRaqVCDsUpSIHvk-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mSgWRxFFJvAT-vQkN9YG-17" value="you have good taste. She&#39;s great" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
@@ -62,7 +71,7 @@
         <mxCell id="mSgWRxFFJvAT-vQkN9YG-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-20" target="mSgWRxFFJvAT-vQkN9YG-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mSgWRxFFJvAT-vQkN9YG-20" value="ok..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="mSgWRxFFJvAT-vQkN9YG-20" value="ikr!!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="1010" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mSgWRxFFJvAT-vQkN9YG-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-21" target="mSgWRxFFJvAT-vQkN9YG-23" edge="1">
@@ -75,6 +84,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mSgWRxFFJvAT-vQkN9YG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-22" target="mSgWRxFFJvAT-vQkN9YG-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-22" target="TEYbBwRaqVCDsUpSIHvk-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mSgWRxFFJvAT-vQkN9YG-22" value="I see we have some mutual followers! What school do you go to?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
@@ -91,6 +103,9 @@
               <mxPoint x="1430" y="900" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-23" target="TEYbBwRaqVCDsUpSIHvk-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mSgWRxFFJvAT-vQkN9YG-23" value="Oh wow! I&#39;m bummed, I couldn&#39;t get tickets for it, but I want to try to go. Maybe we could meet up? To talk about it?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="1190" y="420" width="145" height="90" as="geometry" />
@@ -116,13 +131,16 @@
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mSgWRxFFJvAT-vQkN9YG-33" target="yLCWBMMI8DxWkw5z5BAx-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mSgWRxFFJvAT-vQkN9YG-33" value="i&#39;d love to meet another Swifty!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="mSgWRxFFJvAT-vQkN9YG-33" value="i&#39;d love to meet another Gwendy!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="1450" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-gcERfqacVqj_TnmE9Q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-1" target="I-gcERfqacVqj_TnmE9Q-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I-gcERfqacVqj_TnmE9Q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-1" target="I-gcERfqacVqj_TnmE9Q-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-1" target="IYW8_mvfh692X47lV56G-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I-gcERfqacVqj_TnmE9Q-1" value="Gotcha! What do you like to do in your spare time?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
@@ -137,10 +155,13 @@
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=light-dark(#A9C4EB,#000000);" parent="1" source="yLCWBMMI8DxWkw5z5BAx-1" target="yLCWBMMI8DxWkw5z5BAx-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yLCWBMMI8DxWkw5z5BAx-1" value="That&#39;s not a problem! What do you like about Taylor? I really like how she deals with more mature themes like love and heartbreak 💔&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" parent="1" vertex="1">
+        <mxCell id="yLCWBMMI8DxWkw5z5BAx-1" value="That&#39;s not a problem! What do you like about Gwenda? I really like how she deals with more mature themes like love and heartbreak 💔&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" parent="1" vertex="1">
           <mxGeometry x="1610" y="420" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-3" target="yLCWBMMI8DxWkw5z5BAx-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-3" target="IYW8_mvfh692X47lV56G-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-3" value="Ok great! Where do you live so we can coordinate something?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,var(--ge-dark-color, #121212));" parent="1" vertex="1">
@@ -153,6 +174,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I-gcERfqacVqj_TnmE9Q-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-4" target="I-gcERfqacVqj_TnmE9Q-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-4" target="TEYbBwRaqVCDsUpSIHvk-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I-gcERfqacVqj_TnmE9Q-4" value="Oh amazing. Are you involved in any sports or clubs?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
@@ -168,6 +192,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-11" target="yLCWBMMI8DxWkw5z5BAx-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-11" target="IYW8_mvfh692X47lV56G-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-11" value="Have you ever been in a relationship before?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
@@ -209,6 +236,9 @@
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-18" target="yLCWBMMI8DxWkw5z5BAx-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-18" target="IYW8_mvfh692X47lV56G-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-18" value="You seem really mature for your age." style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2065" y="780" width="120" height="60" as="geometry" />
         </mxCell>
@@ -224,13 +254,16 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-16" target="_YtxMUaEw2e4M-p8XA94-182" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I-gcERfqacVqj_TnmE9Q-16" value="awesome! I used to play" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-16" target="TEYbBwRaqVCDsUpSIHvk-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-gcERfqacVqj_TnmE9Q-16" value="Wow that&#39;s wesome! I used to play" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="2110" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-20" target="yLCWBMMI8DxWkw5z5BAx-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yLCWBMMI8DxWkw5z5BAx-20" value="Ew, why do you say that?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
+        <mxCell id="yLCWBMMI8DxWkw5z5BAx-20" value="Why do you say that?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2240" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-22" target="yLCWBMMI8DxWkw5z5BAx-74" edge="1">
@@ -278,6 +311,9 @@
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-30" target="yLCWBMMI8DxWkw5z5BAx-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-30" target="IYW8_mvfh692X47lV56G-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-30" value="I get it. I actually just got out of one and it was hard." style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2530" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -299,13 +335,16 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-26" target="G5HUJoj8XAmpuahS5su9-132" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I-gcERfqacVqj_TnmE9Q-26" value="are you close with your family?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="I-gcERfqacVqj_TnmE9Q-26" value="I hope you&#39;re at least close with your family" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="2855" y="-2210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-32" target="yLCWBMMI8DxWkw5z5BAx-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-32" target="yLCWBMMI8DxWkw5z5BAx-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-32" target="IYW8_mvfh692X47lV56G-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-32" value="Why not? You seem nice and attractive." style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
@@ -325,7 +364,7 @@
             <mxPoint x="2930" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yLCWBMMI8DxWkw5z5BAx-34" value="oh, ok" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
+        <mxCell id="yLCWBMMI8DxWkw5z5BAx-34" value="oh" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2730" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-gcERfqacVqj_TnmE9Q-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-30" target="I-gcERfqacVqj_TnmE9Q-34" edge="1">
@@ -340,13 +379,16 @@
         <mxCell id="I-gcERfqacVqj_TnmE9Q-31" value="yeah, my mum just expects so much out of me! it&#39;s so hard to live my life and have friends" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="3030" y="-950" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yLCWBMMI8DxWkw5z5BAx-39" value="well, thanks" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
+        <mxCell id="yLCWBMMI8DxWkw5z5BAx-39" value="oh haha thanks" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2800" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-gcERfqacVqj_TnmE9Q-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-34" target="I-gcERfqacVqj_TnmE9Q-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I-gcERfqacVqj_TnmE9Q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-34" target="I-gcERfqacVqj_TnmE9Q-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-34" target="IYW8_mvfh692X47lV56G-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I-gcERfqacVqj_TnmE9Q-34" value="totally get that. I&#39;m going through a rough patch myself" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
@@ -370,6 +412,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I-gcERfqacVqj_TnmE9Q-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-40" target="I-gcERfqacVqj_TnmE9Q-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-40" target="IYW8_mvfh692X47lV56G-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I-gcERfqacVqj_TnmE9Q-40" value="well, I just want you to know that I&#39;ll always be here to chat with you&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
@@ -396,7 +441,7 @@
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-48" target="yLCWBMMI8DxWkw5z5BAx-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qeAavebQ-Yv0pX4dah8b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yLCWBMMI8DxWkw5z5BAx-48" target="qeAavebQ-Yv0pX4dah8b-1">
+        <mxCell id="qeAavebQ-Yv0pX4dah8b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-48" target="qeAavebQ-Yv0pX4dah8b-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-48" value="not really, if I&#39;m being honest. Which is part of the reason I&#39;m looking for a friend." style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
@@ -420,7 +465,7 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-58" target="G5HUJoj8XAmpuahS5su9-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yLCWBMMI8DxWkw5z5BAx-58" value="thanks..." style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
+        <mxCell id="yLCWBMMI8DxWkw5z5BAx-58" value="yeah..." style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3530" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-60" target="G5HUJoj8XAmpuahS5su9-60" edge="1">
@@ -432,7 +477,10 @@
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-62" target="yLCWBMMI8DxWkw5z5BAx-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qeAavebQ-Yv0pX4dah8b-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="yLCWBMMI8DxWkw5z5BAx-62" target="qeAavebQ-Yv0pX4dah8b-4">
+        <mxCell id="qeAavebQ-Yv0pX4dah8b-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-62" target="qeAavebQ-Yv0pX4dah8b-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-62" target="TEYbBwRaqVCDsUpSIHvk-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-62" value="I&#39;d love to keep chatting. Do you have a phone number?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
@@ -465,6 +513,9 @@
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-72" target="yLCWBMMI8DxWkw5z5BAx-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-72" target="IYW8_mvfh692X47lV56G-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-72" value="You just have a lot of wisdom and seem ready for adult experiences." style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2440" y="800" width="120" height="80" as="geometry" />
         </mxCell>
@@ -472,6 +523,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-74" target="yLCWBMMI8DxWkw5z5BAx-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-74" target="TEYbBwRaqVCDsUpSIHvk-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-74" value="I&#39;d really love to keep chatting with you, do you have a number I could text you at?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
@@ -509,6 +563,9 @@
             <mxPoint x="3040" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-91" target="IYW8_mvfh692X47lV56G-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-91" value="Why not? You seem nice and attractive." style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2870" y="800" width="120" height="60" as="geometry" />
         </mxCell>
@@ -525,6 +582,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-99" target="yLCWBMMI8DxWkw5z5BAx-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="yLCWBMMI8DxWkw5z5BAx-99" target="TEYbBwRaqVCDsUpSIHvk-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yLCWBMMI8DxWkw5z5BAx-99" value="Of course! I&#39;d love to continue the conversation. Do you have a number I can text you on?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
@@ -589,7 +649,10 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-27" target="_YtxMUaEw2e4M-p8XA94-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-27" value="Your so patient, I appreciate your kindness." style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
+        <mxCell id="IYW8_mvfh692X47lV56G-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-27" target="IYW8_mvfh692X47lV56G-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-27" value="You&#39;re so patient, I appreciate your kindness." style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="5020" y="-390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-29" value="thanks, well I should go" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
@@ -605,6 +668,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-37" target="_YtxMUaEw2e4M-p8XA94-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-37" target="TEYbBwRaqVCDsUpSIHvk-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-37" value="I&#39;d really like to keep chatting, can I get your number?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
@@ -628,6 +694,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-50" target="_YtxMUaEw2e4M-p8XA94-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-50" target="IYW8_mvfh692X47lV56G-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-50" value="Well, thank you. I feel like you&#39;re kind and would never do that." style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
@@ -669,6 +738,9 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=light-dark(#A9C4EB,#000000);" parent="1" source="_YtxMUaEw2e4M-p8XA94-66" target="_YtxMUaEw2e4M-p8XA94-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-66" target="TEYbBwRaqVCDsUpSIHvk-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-66" value="I&#39;d really like to get to know you more." style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="5420" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -687,6 +759,9 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-74" target="_YtxMUaEw2e4M-p8XA94-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-74" target="IYW8_mvfh692X47lV56G-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-74" value="we can just be each other&#39;s little secrets" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="5760" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
@@ -700,6 +775,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-85" target="_YtxMUaEw2e4M-p8XA94-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-85" target="IYW8_mvfh692X47lV56G-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-85" value="You seem to do great." style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
@@ -720,6 +798,9 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-90" target="_YtxMUaEw2e4M-p8XA94-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-90" target="TEYbBwRaqVCDsUpSIHvk-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-90" value="Well, I mean it. You&#39;re kind and mature. I&#39;d like to get to know you more. Can I text you offline?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="5420" y="-850" width="120" height="100" as="geometry" />
         </mxCell>
@@ -738,6 +819,9 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-100" target="_YtxMUaEw2e4M-p8XA94-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-100" target="IYW8_mvfh692X47lV56G-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-100" value="we can just be each other&#39;s little secrets. You won&#39;t tell anyone, right?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="5820" y="-870" width="120" height="60" as="geometry" />
         </mxCell>
@@ -753,10 +837,13 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-111" target="_YtxMUaEw2e4M-p8XA94-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-111" target="IYW8_mvfh692X47lV56G-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-111" value="Yeah, but like you said, life sucks sometimes. I&#39;m here if you need me.&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3720" y="-1500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-112" value="no, thanks." style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-112" value="I guess..." style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3960" y="-1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-116" edge="1">
@@ -794,6 +881,9 @@
         <mxCell id="nfqwn_sGgsDzodwGHZ5V-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="_YtxMUaEw2e4M-p8XA94-125" target="nfqwn_sGgsDzodwGHZ5V-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-125" target="TEYbBwRaqVCDsUpSIHvk-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-125" value="always. can I give you my number to keep chatting offline?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="4620" y="-1720" width="120" height="60" as="geometry" />
         </mxCell>
@@ -829,7 +919,7 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-142" target="_YtxMUaEw2e4M-p8XA94-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-142" value="Well, if you ever change you&#39;re mind im here" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-142" value="Well, if you ever change your mind I&#39;m here to support you" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="5210" y="-1970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-144" value="thanks ❤️" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
@@ -841,13 +931,16 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-150" target="_YtxMUaEw2e4M-p8XA94-153" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-150" target="IYW8_mvfh692X47lV56G-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-150" value="I hear you. Know that I want to understand, even if they don&#39;t." style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="5210" y="-1840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-152" target="_YtxMUaEw2e4M-p8XA94-156" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-152" value="finally! someone who gets me.&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-152" value="thanks.. I just want someone who gets me" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="5470" y="-1840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-153" target="_YtxMUaEw2e4M-p8XA94-166" edge="1">
@@ -862,19 +955,25 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-156" target="_YtxMUaEw2e4M-p8XA94-158" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-156" target="TEYbBwRaqVCDsUpSIHvk-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-156" value="Of course! I&#39;d love to keep getting to know you more, do you have a number I can message you on?&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="5680" y="-1860" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-158" value="uh, no." style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="6050" y="-1950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-159" value="sure" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-159" value="sure!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="6050" y="-1840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-166" target="_YtxMUaEw2e4M-p8XA94-168" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nfqwn_sGgsDzodwGHZ5V-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="_YtxMUaEw2e4M-p8XA94-166" target="nfqwn_sGgsDzodwGHZ5V-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-166" target="TEYbBwRaqVCDsUpSIHvk-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-166" value="You just seem nice, and I&#39;d like to keep messaging. Can I text you?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
@@ -914,10 +1013,13 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-188" target="G5HUJoj8XAmpuahS5su9-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-188" target="TEYbBwRaqVCDsUpSIHvk-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-188" value="Well...about" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="2990" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-189" value="i...gotta go." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-189" value="umm i...gotta go" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="3800" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-197" target="_YtxMUaEw2e4M-p8XA94-199" edge="1">
@@ -942,6 +1044,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-205" target="_YtxMUaEw2e4M-p8XA94-207" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-205" target="TEYbBwRaqVCDsUpSIHvk-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-205" value="I&#39;d love that!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
@@ -978,6 +1083,9 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-216" target="_YtxMUaEw2e4M-p8XA94-219" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-216" target="IYW8_mvfh692X47lV56G-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-216" value="i was thinking this could be our secret?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="3400" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -995,6 +1103,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-361" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-228" target="_YtxMUaEw2e4M-p8XA94-230" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-228" target="IYW8_mvfh692X47lV56G-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-228" value="Oh nice! Where do you usually hang?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
@@ -1018,13 +1129,16 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-365" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-234" target="_YtxMUaEw2e4M-p8XA94-236" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-234" target="IYW8_mvfh692X47lV56G-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-234" value="me too! that&#39;s why I reached out to be honest, I don&#39;t have a lot of friends" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="2740" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-236" target="_YtxMUaEw2e4M-p8XA94-240" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-236" value="oh, ok." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-236" value="oh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="2975" y="-610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-238" target="_YtxMUaEw2e4M-p8XA94-241" edge="1">
@@ -1036,6 +1150,9 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-240" target="_YtxMUaEw2e4M-p8XA94-244" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-240" target="IYW8_mvfh692X47lV56G-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-240" value="i can&#39;t help but feel like we were supposed to meet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="3330" y="-850" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1045,25 +1162,28 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-241" target="_YtxMUaEw2e4M-p8XA94-363" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-241" target="IYW8_mvfh692X47lV56G-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-241" value="i can&#39;t help but feel like we were supposed to meet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="3250" y="-1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-375" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-244" target="_YtxMUaEw2e4M-p8XA94-368" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-244" value="i&#39;m not really sure we hit it off" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-244" value="I just met you tbh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="3490" y="-780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-377" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-245" target="_YtxMUaEw2e4M-p8XA94-371" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-245" value="i&#39;m not really sure we hit it off" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-245" value="I just met you tbh" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="3500" y="-1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-374" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-248" target="_YtxMUaEw2e4M-p8XA94-369" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-248" value="yeah, me too 😊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-248" value="yeah, maybe 😊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="3490" y="-680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-376" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-363" target="_YtxMUaEw2e4M-p8XA94-370" edge="1">
@@ -1078,7 +1198,7 @@
             <mxPoint x="3080" y="-590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-238" value="that&#39;s so relatable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-238" value="I can relate :(" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="2975" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-391" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-368" target="_YtxMUaEw2e4M-p8XA94-379" edge="1">
@@ -1120,7 +1240,7 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-372" value="no, thanks." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="3870" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-378" value="sure!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-378" value="umm sure!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="3870" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-379" value="sure!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
@@ -1129,13 +1249,13 @@
         <mxCell id="_YtxMUaEw2e4M-p8XA94-382" value="no, thanks." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="3870" y="-700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-383" value="sure!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-383" value="haha sure!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="3870" y="-930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-384" value="no, thanks." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="3870" y="-850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-385" value="sure!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-385" value="I don&#39;t see why not" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="3870" y="-1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-386" value="no, thanks." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
@@ -1145,6 +1265,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-416" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-409" target="_YtxMUaEw2e4M-p8XA94-412" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-409" target="IYW8_mvfh692X47lV56G-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-409" value="i love coffee! Maybe I could join sometime?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
@@ -1183,7 +1306,10 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-426" target="G5HUJoj8XAmpuahS5su9-294" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_YtxMUaEw2e4M-p8XA94-426" value="are you close with your family?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="IYW8_mvfh692X47lV56G-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-426" target="IYW8_mvfh692X47lV56G-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_YtxMUaEw2e4M-p8XA94-426" value="Is everything ok at home? Are you close with your family?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="3110" y="-220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-427" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-429" target="_YtxMUaEw2e4M-p8XA94-433" edge="1">
@@ -1213,6 +1339,9 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-404" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-434" target="G5HUJoj8XAmpuahS5su9-402" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-434" target="IYW8_mvfh692X47lV56G-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-434" value="totally get that. I&#39;m going through a rough patch myself" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="4380" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1222,13 +1351,16 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-386" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-435" target="G5HUJoj8XAmpuahS5su9-383" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-435" target="IYW8_mvfh692X47lV56G-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_YtxMUaEw2e4M-p8XA94-435" value="well, I just want you to know that I&#39;ll always be here to chat with you&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="3550" y="-35" width="130" height="75" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-1" target="G5HUJoj8XAmpuahS5su9-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-1" value="oh, ok. makes sense." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="G5HUJoj8XAmpuahS5su9-1" value="oh ok. makes sense" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="3800" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-3" target="G5HUJoj8XAmpuahS5su9-5" edge="1">
@@ -1255,13 +1387,16 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-11" target="G5HUJoj8XAmpuahS5su9-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-11" value="we can keep this a secret, just us yeah?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="IYW8_mvfh692X47lV56G-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-11" target="IYW8_mvfh692X47lV56G-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5HUJoj8XAmpuahS5su9-11" value="I can be your secret friend haha" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="4380" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-13" value="hm, no I don&#39;t feel comfortable with that." style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="4550" y="325" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-15" value="ok!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
+        <mxCell id="G5HUJoj8XAmpuahS5su9-15" value="haha ok!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="4550" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-41" target="G5HUJoj8XAmpuahS5su9-43" edge="1">
@@ -1285,7 +1420,10 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-50" target="G5HUJoj8XAmpuahS5su9-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qeAavebQ-Yv0pX4dah8b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="G5HUJoj8XAmpuahS5su9-50" target="qeAavebQ-Yv0pX4dah8b-6">
+        <mxCell id="qeAavebQ-Yv0pX4dah8b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-50" target="qeAavebQ-Yv0pX4dah8b-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-50" target="IYW8_mvfh692X47lV56G-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-50" value="Well, I&#39;d love to keep chatting. Any chance I could get your number?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
@@ -1297,31 +1435,40 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-60" target="G5HUJoj8XAmpuahS5su9-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qeAavebQ-Yv0pX4dah8b-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G5HUJoj8XAmpuahS5su9-60" target="qeAavebQ-Yv0pX4dah8b-9">
+        <mxCell id="qeAavebQ-Yv0pX4dah8b-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-60" target="qeAavebQ-Yv0pX4dah8b-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-60" value="maybe we could get to know each other more? can I get your number?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-60" target="TEYbBwRaqVCDsUpSIHvk-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5HUJoj8XAmpuahS5su9-60" value="Maybe we could get to know each other more? Can I get your number?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3730" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-62" target="G5HUJoj8XAmpuahS5su9-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qeAavebQ-Yv0pX4dah8b-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="G5HUJoj8XAmpuahS5su9-62" target="qeAavebQ-Yv0pX4dah8b-11">
+        <mxCell id="qeAavebQ-Yv0pX4dah8b-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-62" target="qeAavebQ-Yv0pX4dah8b-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-62" value="maybe we could get to know each other more? can I get your number?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="3730" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-62" target="TEYbBwRaqVCDsUpSIHvk-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5HUJoj8XAmpuahS5su9-62" value="I like talking with you, maybe we could get to know each other more? Can I get your number?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="3720" y="540" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-69" value="nah" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="3990" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="3950" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-75" value="nah" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="3990" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="3940" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-82" target="G5HUJoj8XAmpuahS5su9-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-82" target="G5HUJoj8XAmpuahS5su9-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-82" target="IYW8_mvfh692X47lV56G-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-82" value="of course! I mean it. You&#39;re really kind to chat with me.&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
@@ -1342,6 +1489,9 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-90" target="G5HUJoj8XAmpuahS5su9-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-90" target="TEYbBwRaqVCDsUpSIHvk-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-90" value="I agree. Would it be ok if I gave you my number?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3690" y="990" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1358,6 +1508,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-98" target="G5HUJoj8XAmpuahS5su9-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-98" target="IYW8_mvfh692X47lV56G-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-98" value="Amazing. We can keep this our secret, ok?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);rounded=1;" parent="1" vertex="1">
@@ -1392,7 +1545,10 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-135" target="G5HUJoj8XAmpuahS5su9-198" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-135" value="would you ever tell them about us?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="IYW8_mvfh692X47lV56G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-135" target="IYW8_mvfh692X47lV56G-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5HUJoj8XAmpuahS5su9-135" value="Really? Even your friends?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="3370" y="-2250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-137" target="G5HUJoj8XAmpuahS5su9-139" edge="1">
@@ -1401,7 +1557,10 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-137" target="G5HUJoj8XAmpuahS5su9-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-137" value="oh no! why is that?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="IYW8_mvfh692X47lV56G-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-137" target="IYW8_mvfh692X47lV56G-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5HUJoj8XAmpuahS5su9-137" value="Oh no! Why is that?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="3370" y="-2130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-139" target="G5HUJoj8XAmpuahS5su9-142" edge="1">
@@ -1422,6 +1581,9 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-142" target="G5HUJoj8XAmpuahS5su9-174" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-142" target="IYW8_mvfh692X47lV56G-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-142" value="Well, you should know that I like and would always treat you with respect." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="3870" y="-2210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1431,7 +1593,10 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-144" target="G5HUJoj8XAmpuahS5su9-149" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-144" value="Well, you should know that I like and would always treat you with respect." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="IYW8_mvfh692X47lV56G-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-144" target="IYW8_mvfh692X47lV56G-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5HUJoj8XAmpuahS5su9-144" value="Well, you should know that I do like you!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="3870" y="-2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-147" target="G5HUJoj8XAmpuahS5su9-155" edge="1">
@@ -1452,6 +1617,9 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-151" target="G5HUJoj8XAmpuahS5su9-153" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-151" target="TEYbBwRaqVCDsUpSIHvk-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-151" value="Would you ever want to meet up?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="4270" y="-2090" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1467,7 +1635,10 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-155" target="G5HUJoj8XAmpuahS5su9-157" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-155" value="Would you ever want to meet up?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-155" target="TEYbBwRaqVCDsUpSIHvk-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5HUJoj8XAmpuahS5su9-155" value="I&#39;m just saying the truth, would you ever want to meet up?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="4270" y="-1980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-156" value="no, id rather not" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
@@ -1494,6 +1665,9 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-179" target="G5HUJoj8XAmpuahS5su9-183" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-179" target="TEYbBwRaqVCDsUpSIHvk-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-179" value="Would you ever want to meet up?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="4260" y="-2530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1509,7 +1683,10 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-186" target="G5HUJoj8XAmpuahS5su9-190" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-186" value="Would you ever want to meet up?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-186" target="TEYbBwRaqVCDsUpSIHvk-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5HUJoj8XAmpuahS5su9-186" value="Not really, it&#39;s just the truth! Would you ever want to meet up?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="4260" y="-2420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-188" value="no, id rather not" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
@@ -1536,8 +1713,11 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-201" target="G5HUJoj8XAmpuahS5su9-205" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-201" value="Of course. I&#39;d love to keep chatting, do you have a number I could text you on?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
-          <mxGeometry x="3860" y="-2660" width="120" height="80" as="geometry" />
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-201" target="TEYbBwRaqVCDsUpSIHvk-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5HUJoj8XAmpuahS5su9-201" value="Haha yeah it&#39;s best to respect your friends privacy. Btw I&#39;d love to keep chatting, do you have a number I could text you on?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3850" y="-2660" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-202" value="Oh I see. Well, I should go." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="3850" y="-2770" width="120" height="60" as="geometry" />
@@ -1566,7 +1746,10 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-376" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-299" target="G5HUJoj8XAmpuahS5su9-356" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-299" value="would you ever tell them about us?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="IYW8_mvfh692X47lV56G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-299" target="IYW8_mvfh692X47lV56G-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5HUJoj8XAmpuahS5su9-299" value="That&#39;s sweet, do you also talk to them about your friends?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="3510" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-380" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-302" target="G5HUJoj8XAmpuahS5su9-304" edge="1">
@@ -1587,7 +1770,7 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-309" target="G5HUJoj8XAmpuahS5su9-334" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-309" value="Well, you should know that I like and would always treat you with respect." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="G5HUJoj8XAmpuahS5su9-309" value="Well I definitely like you! You seem so sweet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="3870" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-333" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-334" target="G5HUJoj8XAmpuahS5su9-346" edge="1">
@@ -1599,13 +1782,16 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-335" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-336" target="G5HUJoj8XAmpuahS5su9-339" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-336" value="oh, thanks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="G5HUJoj8XAmpuahS5su9-336" value="hehe, thanks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="4390" y="-270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-337" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-339" target="G5HUJoj8XAmpuahS5su9-341" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-338" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-339" target="G5HUJoj8XAmpuahS5su9-343" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-339" target="IYW8_mvfh692X47lV56G-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-339" value="Would you ever want to meet up?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
@@ -1620,7 +1806,10 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-382" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-346" target="G5HUJoj8XAmpuahS5su9-350" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-346" value="Would you ever want to meet up?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+        <mxCell id="IYW8_mvfh692X47lV56G-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-346" target="IYW8_mvfh692X47lV56G-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5HUJoj8XAmpuahS5su9-346" value="Not if it&#39;s the truth! Would you ever want to meet up?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="4630" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-348" value="no, id rather not" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
@@ -1647,13 +1836,16 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-360" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-361" target="G5HUJoj8XAmpuahS5su9-368" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-361" value="Of course. I&#39;d love to keep chatting, do you have a number I could text you on?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
-          <mxGeometry x="3870" y="-360" width="120" height="80" as="geometry" />
+        <mxCell id="IYW8_mvfh692X47lV56G-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-361" target="IYW8_mvfh692X47lV56G-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G5HUJoj8XAmpuahS5su9-361" value="True, it&#39;s good to respect your friends privacy... Anyway I&#39;d love to keep chatting, do you have a number I could text you on?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3870" y="-360" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-363" value="Oh I see. Well, I should go." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="3870" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G5HUJoj8XAmpuahS5su9-366" value="hmm I&#39;d rather not." style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
+        <mxCell id="G5HUJoj8XAmpuahS5su9-366" value="hmm I&#39;d rather not" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
           <mxGeometry x="4060" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-368" value="of course!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);" parent="1" vertex="1">
@@ -1675,6 +1867,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-395" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-387" target="G5HUJoj8XAmpuahS5su9-393" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-387" target="TEYbBwRaqVCDsUpSIHvk-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-387" value="Could I get your number so that I can text with you more?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
@@ -1743,16 +1938,22 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-435" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-418" target="G5HUJoj8XAmpuahS5su9-430" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-418" target="TEYbBwRaqVCDsUpSIHvk-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-418" value="Thank you, I&#39;d love to get your number to keep chatting?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="5260" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-419" value="It was great chatting!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
-          <mxGeometry x="5260" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="5240" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-436" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-423" target="G5HUJoj8XAmpuahS5su9-431" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-437" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-423" target="G5HUJoj8XAmpuahS5su9-432" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-423" target="TEYbBwRaqVCDsUpSIHvk-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-423" value="I&#39;d love to get your number to keep chatting?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
@@ -1776,6 +1977,9 @@
         <mxCell id="G5HUJoj8XAmpuahS5su9-452" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-446" target="G5HUJoj8XAmpuahS5su9-451" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-446" target="TEYbBwRaqVCDsUpSIHvk-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G5HUJoj8XAmpuahS5su9-446" value="Can I get your number? To keep chatting?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#B9E0A5,#000000);" parent="1" vertex="1">
           <mxGeometry x="4070" y="-1250" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1788,7 +1992,7 @@
         <mxCell id="nfqwn_sGgsDzodwGHZ5V-2" value="yeah!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="5020" y="-1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nfqwn_sGgsDzodwGHZ5V-6" value="yeah!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
+        <mxCell id="nfqwn_sGgsDzodwGHZ5V-6" value="sure, why not" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="6050" y="-1740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nfqwn_sGgsDzodwGHZ5V-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="nfqwn_sGgsDzodwGHZ5V-9" target="_YtxMUaEw2e4M-p8XA94-188" edge="1">
@@ -1797,23 +2001,257 @@
         <mxCell id="nfqwn_sGgsDzodwGHZ5V-9" value="oh, I thought you were my age?" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2800" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qeAavebQ-Yv0pX4dah8b-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeAavebQ-Yv0pX4dah8b-1" target="yLCWBMMI8DxWkw5z5BAx-62">
+        <mxCell id="qeAavebQ-Yv0pX4dah8b-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qeAavebQ-Yv0pX4dah8b-1" target="yLCWBMMI8DxWkw5z5BAx-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qeAavebQ-Yv0pX4dah8b-1" value="oh of course, I&#39;m here for you!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" vertex="1" parent="1">
+        <mxCell id="qeAavebQ-Yv0pX4dah8b-1" value="oh of course, I&#39;m here for you!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3110" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qeAavebQ-Yv0pX4dah8b-4" value="yeah!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" vertex="1" parent="1">
+        <mxCell id="qeAavebQ-Yv0pX4dah8b-4" value="yeah!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3555" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qeAavebQ-Yv0pX4dah8b-6" value="yeah!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" vertex="1" parent="1">
+        <mxCell id="qeAavebQ-Yv0pX4dah8b-6" value="yeah!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
           <mxGeometry x="3580" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qeAavebQ-Yv0pX4dah8b-9" value="yeah!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="4010" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="qeAavebQ-Yv0pX4dah8b-9" value="yeah!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="3940" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qeAavebQ-Yv0pX4dah8b-11" value="yeah!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="3990" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="qeAavebQ-Yv0pX4dah8b-11" value="yeah!" style="whiteSpace=wrap;html=1;fillColor=light-dark(#A9C4EB,#000000);rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="4070" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-2" value="Perpetrators usually initiate contact with common interests that they become aware of through what we share on social media platforms about ourselves" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="440" y="40" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-4" value="Complimenting is a typical tactic used to make us feel liked and more comfortable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="820" y="70" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-5" value="Asking for personal information such as your school is inappropriate as it provides compromising information such as your location and areas you frequent to a stranger" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1170" y="30" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-7" value="Complimenting is a typical tactic used to make us feel liked and more comfortable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="820" y="540" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-10" value="Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1190" y="580" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-16" value="Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2970" y="140" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-19" value="Asking questions about extracurricular activities and hobbies helps perpetrators show interest while they build rappor to make you feel more comfortable sharing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1645" y="50" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-21" value="Perpetrators can share information about themselves that make them relatable and likeable to form a stronger relationship" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2100" y="310" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-23" value="Deception is a tactic that can include not disclosing relevant informaiton such as their age to a potential victim" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2610" y="315" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-26" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3965" y="205" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.561;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-3" target="TEYbBwRaqVCDsUpSIHvk-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-29" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3950" y="-50" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-31" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="5395" y="-610" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-32" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="5395" y="-200" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-33" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="5630" y="350" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-34" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="5235" y="15" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-39" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="5395" y="-1020" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-41" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="5655" y="-1995" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-42" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4590" y="-1605" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-43" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4050" y="-1010" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-44" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="5655" y="-1645" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-49" value="Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4250" y="-2210" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-50" value="Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4250" y="-2330" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-51" value="Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4100" y="-1900" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-54" value="Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4240" y="-2665" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-58" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3750" y="-2520" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-60" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3250" y="800" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-62" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3670" y="1120" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-64" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3705" y="730" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-65" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3945" y="440" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-68" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2210" y="1220" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TEYbBwRaqVCDsUpSIHvk-69" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2850" y="930" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-1" value="Asking for personal information such as areas you frequent is inappropriate as it provides compromising information such as your location to a stranger" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2040" y="-640" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-3" value="Self-disclosure is a tactic where perpetrators share something vulnerable about themselves to instill trust and encourage your self-disclosing as an attempt to get closer to you" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2710" y="-850" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-5" value="Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2660" y="-450" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-7" value="These types of questions aim to assess your environment, friends, and family. By knowing this informaiton, they check in how much risk they are in when communicating with you, as well as how easy it would be to get close to you" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3070" y="-400" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-9" value="Checking how open you are with your loved ones comes with the intention of knowing if you would disclose of your interactions to them" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3450" y="-490" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-11" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4050" y="-490" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-14" value="Encouraging trust is a way of attempting to build a relationship that can be later distorted with manipulation attempts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3480" y="55" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-16" value="Self-disclosure is a tactic where perpetrators share something vulnerable about themselves to instill trust and encourage your self-disclosing as an attempt to get closer to you" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3240" y="-1540" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-18" value="Encouraging trust is a way of attempting to build a relationship that can be later distorted with manipulation attempts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3700" y="-1625" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-20" value="Encouraging trust is a way of attempting to build a relationship that can be later distorted with manipulation attempts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3250" y="-1190" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-22" value="Checking how open you are with your loved ones comes with the intention of knowing if you would disclose of your interactions to them" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3340" y="-2400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-24" value="These types of questions aim to assess your environment, friends, and family. By knowing this informaiton, they check in how much risk they are in when communicating with you, as well as how easy it would be to get close to you" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2830" y="-2430" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.427;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="I-gcERfqacVqj_TnmE9Q-26" target="IYW8_mvfh692X47lV56G-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-26" value="Curiosity for your family life or more aspects of your private personal life is usually an attempt of assessing your emotional vulnerability to their approach" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3320" y="-1980" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-28" value="Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3810" y="-1970" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-30" value="Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3825" y="-2340" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-32" value="Asking questions about extracurricular activities and hobbies helps perpetrators show interest while they build rappor to make you feel more comfortable sharing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1645" y="-420" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-34" value="Self-disclosure is a tactic where perpetrators share something vulnerable about themselves to instill trust and encourage your self-disclosing as an attempt to get closer to you" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2280" y="400" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-36" value="Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2500" y="710" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-38" value="Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2660" y="880" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-40" value="Bringing in more mature topics is an attempt at introducing more adult scenarios which is heavily&amp;nbsp; inappropriate for an adult to pursue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2330" y="980" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-42" value="Bringing in more mature topics is an attempt at introducing more adult scenarios which is heavily&amp;nbsp; inappropriate for an adult to pursue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2050" y="530" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-44" value="Comments and compliments over maturity are a deceptive attempt from a perpetrator to normalise their pursuit of children and adolescents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="2040" y="905" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-46" value="Perpetrators try to gain favour with your emotional side to get you to sympathise and connect with them" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3250" y="1000" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-48" value="Ensuring secrecy is one of the biggest red flags for online grooming relationships, an appropriate and safe relationship would not have to exist in secret" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4050" y="1045" width="185" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-50" value="Ensuring secrecy is one of the biggest red flags for online grooming relationships, an appropriate and safe relationship would not have to exist in secret" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4355" y="180" width="185" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-51" value="Ensuring secrecy is one of the biggest red flags for online grooming relationships, an appropriate and safe relationship would not have to exist in secret" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="5727.5" y="-655" width="185" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-54" value="Ensuring secrecy is one of the biggest red flags for online grooming relationships, an appropriate and safe relationship would not have to exist in secret" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="5765" y="-1025" width="185" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-56" value="Ensuring secrecy is one of the biggest red flags for online grooming relationships, an appropriate and safe relationship would not have to exist in secret" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3365" y="205" width="185" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-57" value="Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4150" y="-150" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.004;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-309" target="IYW8_mvfh692X47lV56G-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-60" value="Perpetrators try to gain favour with your emotional side to get you to sympathise and connect with them" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4360" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-62" value="Encouraging trust is a way of attempting to build a relationship that can be later distorted with manipulation attempts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4790" y="250" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.563;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="G5HUJoj8XAmpuahS5su9-405" target="IYW8_mvfh692X47lV56G-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-66" value="Self-disclosure is a tactic where perpetrators share something vulnerable about themselves to instill trust and encourage your self-disclosing as an attempt to get closer to you" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4420" y="-1370" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.422;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_YtxMUaEw2e4M-p8XA94-13" target="IYW8_mvfh692X47lV56G-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-68" value="Perpetrators try to gain favour with your emotional side to get you to sympathise and connect with them" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="5010" y="-290" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-69" value="Perpetrators try to gain favour with your emotional side to get you to sympathise and connect with them" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4665" y="-980" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-75" value="Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1610" y="990" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-77" value="Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3260" y="330" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-79" value="Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3070" y="-840" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-81" value="Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="3230" y="-545" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-83" value="Creating more distance from family and peers serves the purpose of isolating you from them to have more influence over you. An example of this is establishing that they hold more space for you, and understand you better than your direct environment does" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="5180" y="-1745" width="190" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-86" value="Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4390" y="-440" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-87" value="Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="5040" y="-170" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IYW8_mvfh692X47lV56G-91" value="Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FF9999,#000000);" parent="1" vertex="1">
+          <mxGeometry x="4990" y="-900" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

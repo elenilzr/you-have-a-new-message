@@ -1,8 +1,302 @@
 {
+  "redFlags": [
+    {
+      "content": "Perpetrators usually initiate contact with common interests that they become aware of through what we share on social media platforms about ourselves",
+      "trigger": "mSgWRxFFJvAT-vQkN9YG-7"
+    },
+    {
+      "content": "Complimenting is a typical tactic used to make us feel liked and more comfortable",
+      "trigger": "mSgWRxFFJvAT-vQkN9YG-16"
+    },
+    {
+      "content": "Asking for personal information such as your school is inappropriate as it provides compromising information such as your location and areas you frequent to a stranger",
+      "trigger": "mSgWRxFFJvAT-vQkN9YG-22"
+    },
+    {
+      "content": "Complimenting is a typical tactic used to make us feel liked and more comfortable",
+      "trigger": "mSgWRxFFJvAT-vQkN9YG-17"
+    },
+    {
+      "content": "Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations",
+      "trigger": "mSgWRxFFJvAT-vQkN9YG-23"
+    },
+    {
+      "content": "Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-205"
+    },
+    {
+      "content": "Asking questions about extracurricular activities and hobbies helps perpetrators show interest while they build rappor to make you feel more comfortable sharing",
+      "trigger": "I-gcERfqacVqj_TnmE9Q-4"
+    },
+    {
+      "content": "Perpetrators can share information about themselves that make them relatable and likeable to form a stronger relationship",
+      "trigger": "I-gcERfqacVqj_TnmE9Q-16"
+    },
+    {
+      "content": "Deception is a tactic that can include not disclosing relevant informaiton such as their age to a potential victim",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-188"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "G5HUJoj8XAmpuahS5su9-3"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "G5HUJoj8XAmpuahS5su9-387"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-66"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-37"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "G5HUJoj8XAmpuahS5su9-423"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "G5HUJoj8XAmpuahS5su9-418"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-90"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-156"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-125"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "G5HUJoj8XAmpuahS5su9-446"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-166"
+    },
+    {
+      "content": "Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations",
+      "trigger": "G5HUJoj8XAmpuahS5su9-151"
+    },
+    {
+      "content": "Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations",
+      "trigger": "G5HUJoj8XAmpuahS5su9-186"
+    },
+    {
+      "content": "Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations",
+      "trigger": "G5HUJoj8XAmpuahS5su9-155"
+    },
+    {
+      "content": "Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations",
+      "trigger": "G5HUJoj8XAmpuahS5su9-179"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "G5HUJoj8XAmpuahS5su9-201"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "yLCWBMMI8DxWkw5z5BAx-62"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "G5HUJoj8XAmpuahS5su9-90"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "G5HUJoj8XAmpuahS5su9-60"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "G5HUJoj8XAmpuahS5su9-62"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "yLCWBMMI8DxWkw5z5BAx-74"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "yLCWBMMI8DxWkw5z5BAx-99"
+    },
+    {
+      "content": "Asking for personal information such as areas you frequent is inappropriate as it provides compromising information such as your location to a stranger",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-228"
+    },
+    {
+      "content": "Self-disclosure is a tactic where perpetrators share something vulnerable about themselves to instill trust and encourage your self-disclosing as an attempt to get closer to you",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-234"
+    },
+    {
+      "content": "Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-409"
+    },
+    {
+      "content": "These types of questions aim to assess your environment, friends, and family. By knowing this informaiton, they check in how much risk they are in when communicating with you, as well as how easy it would be to get close to you",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-426"
+    },
+    {
+      "content": "Checking how open you are with your loved ones comes with the intention of knowing if you would disclose of your interactions to them",
+      "trigger": "G5HUJoj8XAmpuahS5su9-299"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "G5HUJoj8XAmpuahS5su9-361"
+    },
+    {
+      "content": "Encouraging trust is a way of attempting to build a relationship that can be later distorted with manipulation attempts",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-435"
+    },
+    {
+      "content": "Self-disclosure is a tactic where perpetrators share something vulnerable about themselves to instill trust and encourage your self-disclosing as an attempt to get closer to you",
+      "trigger": "I-gcERfqacVqj_TnmE9Q-34"
+    },
+    {
+      "content": "Encouraging trust is a way of attempting to build a relationship that can be later distorted with manipulation attempts",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-111"
+    },
+    {
+      "content": "Encouraging trust is a way of attempting to build a relationship that can be later distorted with manipulation attempts",
+      "trigger": "I-gcERfqacVqj_TnmE9Q-40"
+    },
+    {
+      "content": "Checking how open you are with your loved ones comes with the intention of knowing if you would disclose of your interactions to them",
+      "trigger": "G5HUJoj8XAmpuahS5su9-135"
+    },
+    {
+      "content": "These types of questions aim to assess your environment, friends, and family. By knowing this informaiton, they check in how much risk they are in when communicating with you, as well as how easy it would be to get close to you",
+      "trigger": "I-gcERfqacVqj_TnmE9Q-26"
+    },
+    {
+      "content": "Curiosity for your family life or more aspects of your private personal life is usually an attempt of assessing your emotional vulnerability to their approach",
+      "trigger": "G5HUJoj8XAmpuahS5su9-137"
+    },
+    {
+      "content": "Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact",
+      "trigger": "G5HUJoj8XAmpuahS5su9-144"
+    },
+    {
+      "content": "Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact",
+      "trigger": "G5HUJoj8XAmpuahS5su9-142"
+    },
+    {
+      "content": "Asking questions about extracurricular activities and hobbies helps perpetrators show interest while they build rappor to make you feel more comfortable sharing",
+      "trigger": "I-gcERfqacVqj_TnmE9Q-1"
+    },
+    {
+      "content": "Self-disclosure is a tactic where perpetrators share something vulnerable about themselves to instill trust and encourage your self-disclosing as an attempt to get closer to you",
+      "trigger": "yLCWBMMI8DxWkw5z5BAx-30"
+    },
+    {
+      "content": "Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact",
+      "trigger": "yLCWBMMI8DxWkw5z5BAx-32"
+    },
+    {
+      "content": "Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact",
+      "trigger": "yLCWBMMI8DxWkw5z5BAx-91"
+    },
+    {
+      "content": "Bringing in more mature topics is an attempt at introducing more adult scenarios which is heavily inappropriate for an adult to pursue",
+      "trigger": "yLCWBMMI8DxWkw5z5BAx-72"
+    },
+    {
+      "content": "Bringing in more mature topics is an attempt at introducing more adult scenarios which is heavily inappropriate for an adult to pursue",
+      "trigger": "yLCWBMMI8DxWkw5z5BAx-11"
+    },
+    {
+      "content": "Comments and compliments over maturity are a deceptive attempt from a perpetrator to normalise their pursuit of children and adolescents",
+      "trigger": "yLCWBMMI8DxWkw5z5BAx-18"
+    },
+    {
+      "content": "Perpetrators try to gain favour with your emotional side to get you to sympathise and connect with them",
+      "trigger": "G5HUJoj8XAmpuahS5su9-82"
+    },
+    {
+      "content": "Ensuring secrecy is one of the biggest red flags for online grooming relationships, an appropriate and safe relationship would not have to exist in secret",
+      "trigger": "G5HUJoj8XAmpuahS5su9-98"
+    },
+    {
+      "content": "Ensuring secrecy is one of the biggest red flags for online grooming relationships, an appropriate and safe relationship would not have to exist in secret",
+      "trigger": "G5HUJoj8XAmpuahS5su9-11"
+    },
+    {
+      "content": "Ensuring secrecy is one of the biggest red flags for online grooming relationships, an appropriate and safe relationship would not have to exist in secret",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-74"
+    },
+    {
+      "content": "Ensuring secrecy is one of the biggest red flags for online grooming relationships, an appropriate and safe relationship would not have to exist in secret",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-100"
+    },
+    {
+      "content": "Ensuring secrecy is one of the biggest red flags for online grooming relationships, an appropriate and safe relationship would not have to exist in secret",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-216"
+    },
+    {
+      "content": "Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact",
+      "trigger": "G5HUJoj8XAmpuahS5su9-309"
+    },
+    {
+      "content": "Perpetrators try to gain favour with your emotional side to get you to sympathise and connect with them",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-434"
+    },
+    {
+      "content": "Encouraging trust is a way of attempting to build a relationship that can be later distorted with manipulation attempts",
+      "trigger": "G5HUJoj8XAmpuahS5su9-405"
+    },
+    {
+      "content": "Self-disclosure is a tactic where perpetrators share something vulnerable about themselves to instill trust and encourage your self-disclosing as an attempt to get closer to you",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-13"
+    },
+    {
+      "content": "Perpetrators try to gain favour with your emotional side to get you to sympathise and connect with them",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-27"
+    },
+    {
+      "content": "Perpetrators try to gain favour with your emotional side to get you to sympathise and connect with them",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-50"
+    },
+    {
+      "content": "Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations",
+      "trigger": "yLCWBMMI8DxWkw5z5BAx-3"
+    },
+    {
+      "content": "Attempting to switch messaging platforms is inappropriate and helps them continue their grooming processes and avoid detection",
+      "trigger": "G5HUJoj8XAmpuahS5su9-50"
+    },
+    {
+      "content": "Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-241"
+    },
+    {
+      "content": "Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-240"
+    },
+    {
+      "content": "Creating more distance from family and peers serves the purpose of isolating you from them to have more influence over you. An example of this is establishing that they hold more space for you, and understand you better than your direct environment does",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-150"
+    },
+    {
+      "content": "Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations",
+      "trigger": "G5HUJoj8XAmpuahS5su9-339"
+    },
+    {
+      "content": "Trying to take the conversation offline is inappropriate and usually the end goal for most online grooming conversations",
+      "trigger": "G5HUJoj8XAmpuahS5su9-346"
+    },
+    {
+      "content": "Complimenting and flattery are tactics to make you feel good while talking with them and motivate you to resume contact",
+      "trigger": "_YtxMUaEw2e4M-p8XA94-85"
+    }
+  ],
   "entries": [
     {
       "id": "mSgWRxFFJvAT-vQkN9YG-1",
-      "content": "hi!",
+      "content": "Hi!",
       "sender": "contact",
       "type": "message",
       "next": "mSgWRxFFJvAT-vQkN9YG-4"
@@ -23,7 +317,7 @@
     },
     {
       "id": "mSgWRxFFJvAT-vQkN9YG-7",
-      "content": "I saw your profile. It seems like you like Taylor Swift. I really like them and trying to make more friends",
+      "content": "I saw your profile and it seems like you like Gwenda Tracey. I really like them and trying to make more friends",
       "sender": "contact",
       "type": "message",
       "next": "mSgWRxFFJvAT-vQkN9YG-14"
@@ -37,14 +331,14 @@
     },
     {
       "id": "mSgWRxFFJvAT-vQkN9YG-13",
-      "content": "oh that's awesome! I love Taylor Swift",
+      "content": "oh that's awesome! I love Gwenda Tracey",
       "sender": "me",
       "type": "message",
       "next": "mSgWRxFFJvAT-vQkN9YG-16"
     },
     {
       "id": "mSgWRxFFJvAT-vQkN9YG-16",
-      "content": "you have good taste. She's great",
+      "content": "You have good taste. She's great",
       "sender": "contact",
       "type": "message",
       "next": "mSgWRxFFJvAT-vQkN9YG-24"
@@ -58,7 +352,7 @@
     },
     {
       "id": "mSgWRxFFJvAT-vQkN9YG-20",
-      "content": "ok...",
+      "content": "ikr!!",
       "sender": "me",
       "type": "message",
       "next": "mSgWRxFFJvAT-vQkN9YG-22"
@@ -107,7 +401,7 @@
     },
     {
       "id": "mSgWRxFFJvAT-vQkN9YG-33",
-      "content": "i'd love to meet another Swifty!",
+      "content": "i'd love to meet another Gwendy!",
       "sender": "me",
       "type": "message",
       "next": "yLCWBMMI8DxWkw5z5BAx-3"
@@ -121,7 +415,7 @@
     },
     {
       "id": "yLCWBMMI8DxWkw5z5BAx-1",
-      "content": "That's not a problem! What do you like about Taylor? I really like how she deals with more mature themes like love and heartbreak 💔&nbsp;",
+      "content": "That's not a problem! What do you like about Gwenda? I really like how she deals with more mature themes like love and heartbreak 💔",
       "sender": "contact",
       "type": "message",
       "next": "yLCWBMMI8DxWkw5z5BAx-10"
@@ -211,14 +505,14 @@
     },
     {
       "id": "I-gcERfqacVqj_TnmE9Q-16",
-      "content": "awesome! I used to play",
+      "content": "Wow that's wesome! I used to play",
       "sender": "contact",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-180"
     },
     {
       "id": "yLCWBMMI8DxWkw5z5BAx-20",
-      "content": "Ew, why do you say that?",
+      "content": "Why do you say that?",
       "sender": "me",
       "type": "message",
       "next": "yLCWBMMI8DxWkw5z5BAx-72"
@@ -281,7 +575,7 @@
     },
     {
       "id": "I-gcERfqacVqj_TnmE9Q-26",
-      "content": "are you close with your family?",
+      "content": "I hope you're at least close with your family",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-133"
@@ -302,7 +596,7 @@
     },
     {
       "id": "yLCWBMMI8DxWkw5z5BAx-34",
-      "content": "oh, ok",
+      "content": "oh",
       "sender": "me",
       "type": "message"
     },
@@ -322,7 +616,7 @@
     },
     {
       "id": "yLCWBMMI8DxWkw5z5BAx-39",
-      "content": "well, thanks",
+      "content": "oh haha thanks",
       "sender": "me",
       "type": "message"
     },
@@ -349,7 +643,7 @@
     },
     {
       "id": "I-gcERfqacVqj_TnmE9Q-40",
-      "content": "well, I just want you to know that I'll always be here to chat with you&nbsp;",
+      "content": "well, I just want you to know that I'll always be here to chat with you",
       "sender": "contact",
       "type": "message",
       "next": "I-gcERfqacVqj_TnmE9Q-43"
@@ -403,7 +697,7 @@
     },
     {
       "id": "yLCWBMMI8DxWkw5z5BAx-58",
-      "content": "thanks...",
+      "content": "yeah...",
       "sender": "me",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-62"
@@ -556,14 +850,14 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-15",
-      "content": "that seems like a lot...&nbsp;",
+      "content": "that seems like a lot...",
       "sender": "me",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-19"
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-19",
-      "content": "Fair, we don't have to talk about it.&nbsp;",
+      "content": "Fair, we don't have to talk about it.",
       "sender": "contact",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-22"
@@ -576,14 +870,14 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-25",
-      "content": "no, it's ok.&nbsp;",
+      "content": "no, it's ok.",
       "sender": "me",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-27"
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-27",
-      "content": "Your so patient, I appreciate your kindness.",
+      "content": "You're so patient, I appreciate your kindness.",
       "sender": "contact",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-30"
@@ -643,7 +937,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-54",
-      "content": "well, I try.&nbsp;",
+      "content": "well, I try.",
       "sender": "me",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-85"
@@ -663,7 +957,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-63",
-      "content": "well, you observe more than others.&nbsp;",
+      "content": "well, you observe more than others.",
       "sender": "me",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-66"
@@ -722,7 +1016,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-88",
-      "content": "that's an odd thing to say.&nbsp;",
+      "content": "that's an odd thing to say.",
       "sender": "me",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-90"
@@ -768,14 +1062,14 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-111",
-      "content": "Yeah, but like you said, life sucks sometimes. I'm here if you need me.&nbsp;",
+      "content": "Yeah, but like you said, life sucks sometimes. I'm here if you need me.",
       "sender": "contact",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-113"
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-112",
-      "content": "no, thanks.",
+      "content": "I guess...",
       "sender": "me",
       "type": "message"
     },
@@ -794,7 +1088,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-120",
-      "content": "not really, just knowing someone is there is enough.&nbsp;",
+      "content": "not really, just knowing someone is there is enough.",
       "sender": "me",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-125"
@@ -842,7 +1136,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-142",
-      "content": "Well, if you ever change you're mind im here",
+      "content": "Well, if you ever change your mind I'm here to support you",
       "sender": "contact",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-145"
@@ -862,7 +1156,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-152",
-      "content": "finally! someone who gets me.&nbsp;",
+      "content": "thanks.. I just want someone who gets me",
       "sender": "me",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-156"
@@ -876,7 +1170,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-156",
-      "content": "Of course! I'd love to keep getting to know you more, do you have a number I can message you on?&nbsp;",
+      "content": "Of course! I'd love to keep getting to know you more, do you have a number I can message you on?",
       "sender": "contact",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-162"
@@ -889,7 +1183,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-159",
-      "content": "sure",
+      "content": "sure!",
       "sender": "me",
       "type": "message"
     },
@@ -902,7 +1196,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-168",
-      "content": "no.&nbsp;",
+      "content": "no.",
       "sender": "me",
       "type": "message"
     },
@@ -936,7 +1230,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-189",
-      "content": "i...gotta go.",
+      "content": "umm i...gotta go",
       "sender": "me",
       "type": "message"
     },
@@ -1036,7 +1330,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-236",
-      "content": "oh, ok.",
+      "content": "oh",
       "sender": "me",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-240"
@@ -1057,21 +1351,21 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-244",
-      "content": "i'm not really sure we hit it off",
+      "content": "I just met you tbh",
       "sender": "me",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-368"
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-245",
-      "content": "i'm not really sure we hit it off",
+      "content": "I just met you tbh",
       "sender": "me",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-371"
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-248",
-      "content": "yeah, me too 😊",
+      "content": "yeah, maybe 😊",
       "sender": "me",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-369"
@@ -1085,7 +1379,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-238",
-      "content": "that's so relatable",
+      "content": "I can relate :(",
       "sender": "me",
       "type": "message",
       "next": "_YtxMUaEw2e4M-p8XA94-241"
@@ -1126,7 +1420,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-378",
-      "content": "sure!",
+      "content": "umm sure!",
       "sender": "me",
       "type": "message"
     },
@@ -1144,7 +1438,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-383",
-      "content": "sure!",
+      "content": "haha sure!",
       "sender": "me",
       "type": "message"
     },
@@ -1156,7 +1450,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-385",
-      "content": "sure!",
+      "content": "I don't see why not",
       "sender": "me",
       "type": "message"
     },
@@ -1208,7 +1502,7 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-426",
-      "content": "are you close with your family?",
+      "content": "Is everything ok at home? Are you close with your family?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-295"
@@ -1243,28 +1537,28 @@
     },
     {
       "id": "_YtxMUaEw2e4M-p8XA94-435",
-      "content": "well, I just want you to know that I'll always be here to chat with you&nbsp;",
+      "content": "well, I just want you to know that I'll always be here to chat with you",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-385"
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-1",
-      "content": "oh, ok. makes sense.",
+      "content": "oh ok. makes sense",
       "sender": "me",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-3"
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-3",
-      "content": "I'd love to chat more, can I give you my number?&nbsp;",
+      "content": "I'd love to chat more, can I give you my number?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-7"
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-5",
-      "content": "sure!&nbsp;",
+      "content": "sure!",
       "sender": "me",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-11"
@@ -1277,7 +1571,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-11",
-      "content": "we can keep this a secret, just us yeah?",
+      "content": "I can be your secret friend haha",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-14"
@@ -1290,7 +1584,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-15",
-      "content": "ok!",
+      "content": "haha ok!",
       "sender": "me",
       "type": "message"
     },
@@ -1329,14 +1623,14 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-60",
-      "content": "maybe we could get to know each other more? can I get your number?",
+      "content": "Maybe we could get to know each other more? Can I get your number?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-81"
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-62",
-      "content": "maybe we could get to know each other more? can I get your number?",
+      "content": "I like talking with you, maybe we could get to know each other more? Can I get your number?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-79"
@@ -1355,14 +1649,14 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-82",
-      "content": "of course! I mean it. You're really kind to chat with me.&nbsp;",
+      "content": "of course! I mean it. You're really kind to chat with me.",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-86"
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-84",
-      "content": "that's nice of you to say, but I should go.&nbsp;",
+      "content": "that's nice of you to say, but I should go.",
       "sender": "me",
       "type": "message"
     },
@@ -1428,14 +1722,14 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-135",
-      "content": "would you ever tell them about us?",
+      "content": "Really? Even your friends?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-199"
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-137",
-      "content": "oh no! why is that?",
+      "content": "Oh no! Why is that?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-141"
@@ -1463,7 +1757,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-144",
-      "content": "Well, you should know that I like and would always treat you with respect.",
+      "content": "Well, you should know that I do like you!",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-148"
@@ -1484,7 +1778,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-151",
-      "content": "Would you ever want to meet up?&nbsp;",
+      "content": "Would you ever want to meet up?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-160"
@@ -1503,7 +1797,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-155",
-      "content": "Would you ever want to meet up?&nbsp;",
+      "content": "I'm just saying the truth, would you ever want to meet up?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-162"
@@ -1536,7 +1830,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-179",
-      "content": "Would you ever want to meet up?&nbsp;",
+      "content": "Would you ever want to meet up?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-177"
@@ -1555,7 +1849,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-186",
-      "content": "Would you ever want to meet up?&nbsp;",
+      "content": "Not really, it's just the truth! Would you ever want to meet up?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-184"
@@ -1588,7 +1882,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-201",
-      "content": "Of course. I'd love to keep chatting, do you have a number I could text you on?",
+      "content": "Haha yeah it's best to respect your friends privacy. Btw I'd love to keep chatting, do you have a number I could text you on?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-207"
@@ -1627,7 +1921,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-299",
-      "content": "would you ever tell them about us?",
+      "content": "That's sweet, do you also talk to them about your friends?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-375"
@@ -1648,7 +1942,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-309",
-      "content": "Well, you should know that I like and would always treat you with respect.",
+      "content": "Well I definitely like you! You seem so sweet",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-307"
@@ -1662,14 +1956,14 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-336",
-      "content": "oh, thanks",
+      "content": "hehe, thanks",
       "sender": "me",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-339"
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-339",
-      "content": "Would you ever want to meet up?&nbsp;",
+      "content": "Would you ever want to meet up?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-337"
@@ -1682,7 +1976,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-346",
-      "content": "Would you ever want to meet up?&nbsp;",
+      "content": "Not if it's the truth! Would you ever want to meet up?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-344"
@@ -1715,7 +2009,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-361",
-      "content": "Of course. I'd love to keep chatting, do you have a number I could text you on?",
+      "content": "True, it's good to respect your friends privacy... Anyway I'd love to keep chatting, do you have a number I could text you on?",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-359"
@@ -1728,7 +2022,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-366",
-      "content": "hmm I'd rather not.",
+      "content": "hmm I'd rather not",
       "sender": "me",
       "type": "message"
     },
@@ -1792,7 +2086,7 @@
     },
     {
       "id": "G5HUJoj8XAmpuahS5su9-405",
-      "content": "Yeah it is. But I get it, I'm here if you need it.&nbsp;",
+      "content": "Yeah it is. But I get it, I'm here if you need it.",
       "sender": "contact",
       "type": "message",
       "next": "G5HUJoj8XAmpuahS5su9-416"
@@ -1902,7 +2196,7 @@
     },
     {
       "id": "nfqwn_sGgsDzodwGHZ5V-6",
-      "content": "yeah!",
+      "content": "sure, why not",
       "sender": "me",
       "type": "message"
     },

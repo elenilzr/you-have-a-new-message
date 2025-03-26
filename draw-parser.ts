@@ -1,6 +1,6 @@
+import type { TChatEntry, TChatMessage, TChatOptions, TRedFlag } from './src/types'
+import { readFile, writeFile } from 'node:fs/promises'
 import { xml2js } from 'xml-js'
-import { readFile, writeFile } from 'fs/promises'
-import { TChatEntry, TChatMessage, TChatOptions } from './src/types'
 
 async function start() {
   const filePath = './draw.xml'
@@ -11,17 +11,30 @@ async function start() {
   const [mxGraphModel] = diagram.elements
   const [root] = mxGraphModel.elements
 
+  const redFlags: Map<string, TRedFlag> = new Map()
   const messages: Map<string, TChatMessage> = new Map()
   for (const element of root.elements) {
     const isUnion = element.attributes?.source && element.attributes?.target
     const isSenderMessage = element.attributes?.style?.includes('#B9E0A5')
     const isMeMessage = element.attributes?.style?.includes('#A9C4EB')
-    if (!isUnion && (isSenderMessage || isMeMessage)) {
+    const isRedFlag = element.attributes?.style?.includes('#FF9999')
+    if (isUnion) {
+      continue
+    }
+
+    if (isSenderMessage || isMeMessage) {
       messages.set(element.attributes?.id, {
         id: element.attributes?.id,
-        content: element.attributes?.value,
+        content: element.attributes?.value.replaceAll('&nbsp;', ''),
         sender: isSenderMessage ? 'contact' : 'me',
         type: 'message',
+      })
+    }
+
+    if (isRedFlag) {
+      redFlags.set(element.attributes?.id, {
+        content: element.attributes?.value.replaceAll('&nbsp;', ''),
+        trigger: ''
       })
     }
   }
@@ -32,9 +45,14 @@ async function start() {
     const isUnion = element.attributes?.source && element.attributes?.target
     if (isUnion) {
       const source = messages.get(element.attributes.source)
-      const target = messages.get(element.attributes.target)
+      const target = messages.get(element.attributes.target) ?? redFlags.get(element.attributes.target)
       if (!source || !target) {
         throw new Error(`${element.attributes?.id} is not well connected! source: ${source}, target: ${target}`)
+      }
+ 
+      if ('trigger' in target) {
+        target.trigger = source.id
+        continue
       }
 
       if (target.sender === 'me') {
@@ -50,7 +68,7 @@ async function start() {
         }
 
         if (typeof next === 'string') {
-          throw new Error(`something weird here ${element.attributes?.id}`)
+          throw new TypeError(`something weird here ${element.attributes?.id}`)
         }
 
         // For duplicated arrows....
@@ -69,7 +87,7 @@ async function start() {
   }
 
   // console.log(JSON.stringify(entries, null, 2))
-  await writeFile('./src/assets/data/chat.json', JSON.stringify({entries}, null, 2))
+  await writeFile('./src/assets/data/chat.json', JSON.stringify({ redFlags: [...redFlags.values()], entries }, null, 2))
 }
 
 start()
