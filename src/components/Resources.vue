@@ -38,7 +38,7 @@
 
         <section class="resource">
           <h4>Internet Watch Foundation (IWF) – Report Online Child Abuse</h4>
-          <p>Report sexual images/videos of minors: <a target="_blank" href="www.iwf.org.uk"></a></p>
+          <p>Report sexual images/videos of minors: <a target="_blank" href="www.iwf.org.uk">www.iwf.org.uk</a></p>
         </section>
 
         <section class="resource">
