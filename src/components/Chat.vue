@@ -79,8 +79,11 @@
 
   async function sendNextMessage() {
     if (!nextEntryId) {
-      isChatCompleted.value = true 
-      await nextTick()
+      isChatCompleted.value = true
+
+      while(isOpeningOrClosing.value) {
+        await nextTick()
+      }
 
       pendingOptions.value.push({
         optionType: 'continue'
@@ -102,6 +105,10 @@
     }, 300)
 
     if (isOptions(entry)) {
+      while(isOpeningOrClosing.value) {
+        await nextTick()
+      }
+
       const messageOptions = entry.options.map(messageId => ({ ...entriesMap.get(messageId) as TChatMessage, optionType: 'message' as TOptionType }))
       pendingOptions.value.push(...messageOptions)
       isOptionSelectorOpen.value = true
