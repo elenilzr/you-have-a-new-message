@@ -2,7 +2,7 @@
   import { useTemplateRef, defineProps, onMounted, onUpdated } from 'vue'
   
   const { color } = defineProps<{
-    color: 'primary' | 'disabled'
+    color: 'primary' | 'secondary' | 'disabled'
   }>();
 
   const button = useTemplateRef('button')
@@ -16,6 +16,11 @@
       case 'primary': {
         button.value.style.setProperty('--option-color', 'rgb(78, 78, 212)')
         button.value.style.setProperty('--option-color-hover', 'rgb(59, 59, 197)')
+        break
+      }
+      case 'secondary': {
+        button.value.style.setProperty('--option-color', 'rgb(54, 54, 81)')
+        button.value.style.setProperty('--option-color-hover', 'rgb(34, 34, 51)')
         break
       }
       case 'disabled': {

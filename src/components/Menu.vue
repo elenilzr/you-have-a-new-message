@@ -18,9 +18,9 @@
     <div class="pages">
       <Button color="primary" @click="selectPage('chat')">Start chat</Button>
       <Button color="primary" @click="selectPage('about')">About the project</Button>
-      <Button color="primary" @click="selectPage('references')">References</Button>
-      <Button color="primary" @click="selectPage('resources')">Resources</Button>
-      <Button color="primary" @click="selectPage('statistics')">Statistics</Button>
+      <Button color="primary" @click="selectPage('resources')">Need help?</Button>
+      <Button color="secondary" @click="selectPage('references')">References</Button>
+      <Button color="secondary" @click="selectPage('statistics')">Statistics</Button>
     </div>
   </section>
 </template>
