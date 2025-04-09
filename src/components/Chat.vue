@@ -1,6 +1,6 @@
 <script setup lang="ts">
   import type { TChatEntry, TChatMessage, TOption, TOptionType, TRedFlag } from '../types'
-  import { ref, useTemplateRef, nextTick, defineEmits } from 'vue'
+  import { ref, useTemplateRef, watch, defineEmits } from 'vue'
   import { isOptions } from '../utils'
   import MessageBubble from './MessageBubble.vue'
   import OptionsSelector from './OptionsSelector.vue'
@@ -51,10 +51,12 @@
     return triggerRedFlagsMap.get(messageId)
   }
 
-  function scrollWhileOpenClose() {
-    isOpeningOrClosing.value = true
-    scrollDown()
-  }
+
+  watch(isOpeningOrClosing, (newValue: boolean) => {
+    if (newValue) {
+      scrollDown()
+    }
+  })
 
   function scrollDown() {
     if (messagesElement.value) {
@@ -66,12 +68,8 @@
     }
   }
 
-  function handleOptionSelected() {
-    isOpeningOrClosing.value = false
-    pendingOptions.value.splice(0, pendingOptions.value.length)
-  }
-
   async function selectOption(optionId: string) {
+    pendingOptions.value.splice(0, pendingOptions.value.length)
     isOptionSelectorOpen.value = false
     nextEntryId = optionId
     sendNextMessage()
@@ -80,10 +78,6 @@
   async function sendNextMessage() {
     if (!nextEntryId) {
       isChatCompleted.value = true
-
-      while(isOpeningOrClosing.value) {
-        await nextTick()
-      }
 
       pendingOptions.value.push({
         optionType: 'continue'
@@ -105,10 +99,6 @@
     }, 300)
 
     if (isOptions(entry)) {
-      while(isOpeningOrClosing.value) {
-        await nextTick()
-      }
-
       const messageOptions = entry.options.map(messageId => ({ ...entriesMap.get(messageId) as TChatMessage, optionType: 'message' as TOptionType }))
       pendingOptions.value.push(...messageOptions)
       isOptionSelectorOpen.value = true
@@ -153,10 +143,10 @@
       leave-active-class="closing"
       leave-from-class="open"
       leave-to-class="close"
-      @before-enter="scrollWhileOpenClose"
+      @enter="isOpeningOrClosing = true"
       @after-enter="isOpeningOrClosing = false"
-      @before-leave="scrollWhileOpenClose"
-      @after-leave="handleOptionSelected"
+      @leave="isOpeningOrClosing = true"
+      @after-leave="isOpeningOrClosing = false"
     >
       <footer v-if="isOptionSelectorOpen" class="options-selector">
         <OptionsSelector

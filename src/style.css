@@ -3,11 +3,17 @@
   background-color: rgb(163, 162, 248);
   display: flex;
   width: 100vw;
-  height: 90vh;
+  height: 86vh;
   position: fixed;
   overflow: auto;
   justify-content: center;
   align-items: center;
+}
+
+@media (min-width:481px) {
+  :root {
+    height: 100vh;
+  }
 }
 
 body, #app {
